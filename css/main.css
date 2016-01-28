@@ -1,0 +1,65 @@
+
+div{
+
+	height: 100px;
+	width: 100px;
+	border: 3px  solid black;
+	margin-top: 3px;
+	
+}
+
+.grande{
+
+	width:330px;
+	height: 115px;
+
+
+}
+
+#uno{
+
+	background-color: yellow;
+}
+#dos{
+
+	background-color: red;
+	
+}
+
+#tres{
+
+	background-color: green;
+	display: inline-block;
+	margin-left: 1px;
+
+}
+
+#cuatro{
+
+	background-color: purple;
+	display: inline-block;
+
+}
+
+#cinco{
+
+	background-color: pink;
+	display: inline-block;
+}
+#seis{
+
+	background-color: blue;
+	display: inline-block;
+
+}
+#siete{
+
+	background-color: orange;
+	display: inline-block;
+	
+}
+#ocho{
+	
+	background-color: violet;
+}
+
